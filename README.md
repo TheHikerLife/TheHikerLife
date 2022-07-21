@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheHikerLife aka Bulabois Baptiste
+- 👀 I’m interested in music, sound, dsp and audio dev 
+- 🌱 I’m currently learning c++ and dsp
+- 📘 I’m a student for an engineering degree in France
+- 📫 How to reach me : bbulabois@gmail.com
